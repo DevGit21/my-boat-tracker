@@ -7,11 +7,11 @@ This project is a real-time boat tracking application utilizing WebSocket techno
 ## Getting Started 
 
 Here are the steps to perform in order to use the project:
-- Go to the webSocketServer folder
+- Go to the webSocketServer(server component) folder.
 - do <code>npm install</code>
 - do <code>node index.js</code>
-- Server is running on **http://localhost:3000**
-- Go to the webSocketClient folder
+- Server(node js server) is running on **http://localhost:3000**
+- Go to the webSocketClient(Client component) folder
 - do <code>npm install</code>
 - do <code>npm run dev</code>
 - visit **http://localhost:5173/** to check out the project
